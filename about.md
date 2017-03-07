@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About Ruhullah
+title: About
 description: The ticks that make me
 ---
 ## About
