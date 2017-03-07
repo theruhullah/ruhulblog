@@ -9,13 +9,11 @@ Unfortunately, I don't know any.
 
 But I'll be <i>darned</i> if I let it this post end without hitting my 250 word quota. Only two hundred and eighteen to go.
 
-Rather than filling the post with amusing cat gifs, I decided some research would be necessary. I pulled up my favourite researching tool, ie. Google,
-and got down to it.
+Rather than filling the post with amusing cat gifs, I decided some research would be necessary. I pulled up my favourite researching tool, ie. Google, and got down to it.
 
-Stunned by the results I found (which we'll get to further on, they're great, you'll LOVE number 6) I've decided it would be better to retrace our steps a 
-little to determine what best practices are in the first place:
+Stunned by the results I found (which we'll get to further on, they're great, you'll LOVE number 6) I've decided it would be better to retrace our steps a  little to determine what best practices are in the first place:
 
-Once upon a time...
+## Once upon a time...
 
 a bunch of intoxicated Swiss chaps got together and decided to play a cruel joke on the world. Thus, ISO compliance was born. 
 

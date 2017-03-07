@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
- <title>Monochrome | A minimal, responsive Jekyll blog theme</title>
+ <title>Ruhullah | The personal site</title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <id>http://localhost:4000</id>
- <updated>2017-03-07T10:39:28+08:00</updated>
+ <updated>2017-03-07T12:39:50+08:00</updated>
  <author>
-   <name>The Review Index</name>
-   <uri>https://thereviewindex.com</uri>
-   <email>dyutibarma@gmail.com</email>
+   <name>Ruhullah Thurairatnam</name>
+   <uri>https://ruhullah.site</uri>
+   <email>dontemailruhullah@gmail.com</email>
  </author>
 
  
