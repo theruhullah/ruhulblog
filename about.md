@@ -8,6 +8,9 @@ Some words for testing content
 
 ## Features
 
+- Below average Dutch height
+- Poor eyesight
+- Excessive use of brackets within brackets
 - Irony
 
 
