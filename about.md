@@ -1,17 +1,20 @@
 ---
 layout: page
 title: About
-description: The ticks that make me
+description: My Curriculum Vitae
 ---
-## About
-Some words for testing content
+## <div style="text-align: center"> RUHULLAH THURAIRATNAM </div>
 
-## Features
+#### <div st>62, Jalan SS21/44, Damansara Utama, Petaling Jaya, 47400 Malaysia || CELL: 014-3386415</div>
 
-- Below average Dutch height
-- Poor eyesight
-- Excessive use of brackets within brackets
-- Irony
+#### <div style="text-align: center">E-mail: [emailruhullah@gmail.com](mailto:emailruhullah@gmail.com)</div>
+
+#### <div style="text-align: center">Website: ruhullah.site</div>
+
+
+
+
+
 
 
 
