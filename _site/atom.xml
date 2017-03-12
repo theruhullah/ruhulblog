@@ -4,12 +4,22 @@
  <title>Ruhullah | The personal site</title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <id>http://localhost:4000</id>
- <updated>2017-03-08T20:13:30+08:00</updated>
+ <updated>2017-03-13T03:59:23+08:00</updated>
  <author>
    <name>Ruhullah Thurairatnam</name>
    <uri>https://ruhullah.site</uri>
    <email>dontemailruhullah@gmail.com</email>
  </author>
+
+ 
+
+ <entry>
+   <title>Just A Little Trash</title>
+   <link href="http://localhost:4000/hello-world"/>
+   <id>http://localhost:4000/hello-world</id>
+   <updated>2017-01-10T00:00:00+08:00</updated>
+   <content type="html">&lt;p&gt;You gave me the butterfly box, and I for a while wondered, why you enjoyed such a trashy thing. But even as I pondered, I knew: we all enjoy a little trash.&lt;/p&gt; &lt;p&gt;And you used to entertain the thought of your life being a little bit trash. So you enjoyed...</content>
+ </entry>
 
  
 
