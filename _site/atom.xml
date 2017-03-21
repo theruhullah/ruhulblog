@@ -4,7 +4,7 @@
  <title>Ruhullah | The personal site</title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <id>http://localhost:4000</id>
- <updated>2017-03-13T06:20:48+08:00</updated>
+ <updated>2017-03-21T19:07:40+08:00</updated>
  <author>
    <name>Ruhullah Thurairatnam</name>
    <uri>https://ruhullah.site</uri>
@@ -17,7 +17,7 @@
    <title>Just A Little Trash</title>
    <link href="http://localhost:4000/trash"/>
    <id>http://localhost:4000/trash</id>
-   <updated>2017-01-10T00:00:00+08:00</updated>
+   <updated>2017-03-07T00:00:00+08:00</updated>
    <content type="html">&lt;p&gt;You give me the butterfly box, and I for a while wonder, why you enjoyed such a trashy thing. But even as I ponder, I know: we all enjoy a little trash.&lt;/p&gt; &lt;p&gt;And you’d entertain the thought of your life being a little bit trash. So you enjoyed that little...</content>
  </entry>
 
