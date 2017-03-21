@@ -68,7 +68,7 @@ However, they provide the best tool for us to never have to see ads on Youtube, 
 
 [**<u>GET ADBLOCK PLUS HERE</u>**](https://adblockplus.org/)
 
-Get the free version, it is sufficient. Don't upgrade to PRO. 
+The free version is sufficient. Don't upgrade to PRO. 
 
 As with badger, you should click on the ABP icon on your browser, and go to the settings menu:
 
