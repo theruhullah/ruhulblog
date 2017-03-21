@@ -109,7 +109,9 @@ If you've come this far, and still have a burning desire to protect yourself eve
 
 For general internet use, the steps I've outlined are sufficient to enjoy using the internet without having to worry about being spied on. 
 
-For your information, I DO track visitor behavior on this website (via Google Analytics only- you can check with your newly installed protections), because this is a private domain, and I want to know what people do on it, and how. The cookie I run expires after you leave, and therefore does not track you past any of the pages on this domain. It has no way of determining who you are, and what else you do on the internet.
+For your information, I DO track visitor behavior on this website (via Google Analytics only- you can check with your newly installed protections), because this is a private domain, and I want to know what people do on it, and how. 
+
+I fund this domain myself, and don't run advertising on it. The cookie I run expires after you leave, and therefore does not track you past any of the pages on this domain. It has no way of determining who you are, and what else you do on the internet.
 
 I think that's fair. 
 
