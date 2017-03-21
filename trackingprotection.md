@@ -19,7 +19,10 @@ In a nutshell, you will see less of the annoying ads that follow you around the
 
 Once you install the extension, you will need to ensure it's three protection settings are enabled. Do this by clicking on the badger icon (usually top right of your browser), and clicking the gear icon to go to the settings page.
 
-<p><img src="C:\Users\Luna\Desktop\ruhulblog\_site\img\badger_settings.png" alt="Test" title="Test" />
+<img src="C:\Users\Luna\Desktop\ruhulblog\_site\img\badger_settings.png" alt="Test" title="Test" />
+
+[img1]: /img/badger_settings.png "Title"
+![Alt text][img1]
 
 Go to General Settings tab, and make sure all three boxes are checked. That's it.
 
