@@ -112,13 +112,13 @@ Incognito modes are decent short term option. Better is a little known wonder ca
 
 ------
 
-If you've come this far, and still have a burning desire to protect yourself even further, feel free to email me with your concerns. 
+If you've come this far, and find yourself engulfed with a burning desire to protect yourself even further, feel free to email me with your concerns. 
 
-For general internet use, the steps I've outlined are sufficient to enjoy using the internet without having to worry about being spied on. 
+For general internet use, the steps I've outlined are sufficient to enjoy using the internet without having to worry about being spied on. Mostly.
 
-For your information, I DO track visitor behavior on this website (via Google Analytics only- you can check with your newly installed protections), because this is a private domain, and I want to know what people do on it, and how.
+For your information, I DO track visitor behavior on this website (via Google Analytics only- you can check with your newly installed protections), because this is a private domain, and I want to know what people do on it, and how I can improve the site.
 
-I fund this domain myself, and don't run advertising on it. The cookie I run expires after you leave, and therefore does not track you past any of the pages on this domain. It has no way of determining who you are, and what else you do on the internet. How it works, and what it does will certainly change over time, but the basic principle of not using tracking scripts from unknown/unverified sources won't.
+I fund this domain myself, and don't run advertising on it. The cookie I run expires once you leave, and therefore does not track you any further than the confines of this domain. It has no way of determining who you are, and what else you do on the internet. How it works, and what it does will certainly change over time, but the basic principle of not using tracking scripts from unknown/unverified sources won't.
 
 I think that's fair. 
 
