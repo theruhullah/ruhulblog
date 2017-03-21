@@ -80,7 +80,7 @@ You can go to a local news portal like theStar or FreeMalaysiaToday and test out
 
 Note: <u>test with AdBlock Plus, not with badger.</u> 
 
-Some publisher like Forbes are fighting the Adblock War, and once an adblocker is detected while you visit these sites, they will "ask" that you disable the app in order to access their content:
+Some publisher like Forbes are fighting the Adblock War, and once an adblocker is detected when you visit these sites, they will "ask" that you disable the app in order to access their content:
 
 [img4]: /img/forbesjunk.png "Content Gateway"
 ![Gated Content on Forbes][img4]
