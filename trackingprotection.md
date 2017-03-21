@@ -65,8 +65,8 @@ Get the free version, it is sufficient. Don't upgrade to PRO.
 
 As with badger, you should click on the ABP icon on your browser, and go to the settings menu:
 
-[img3]: /img/adblockoptions.png "Title"
-![Alt text][img3]
+[img3]: /img/adblockoptions.png "ABP Options"
+![ABP Options][img3]
 
 I recommend leaving your settings like this. The other tabs are more advanced and are safe to play with if you wish to explore. They lead to a more customized internet experience for you, but takes a little know-how.
 
@@ -79,6 +79,15 @@ You however, might want to play with it and test how it affects your experience 
 You can go to a local news portal like theStar or FreeMalaysiaToday and test out the different settings to see what you are comfortable blocking. 
 
 Note: <u>test with AdBlock Plus, not with badger.</u> 
+
+Some publisher like Forbes are fighting the Adblock War, and once an adblocker is detected while you visit these sites, they will "ask" that you disable the app in order to access their content:
+
+[img4]: /img/forbesjunk.png "Content Gateway"
+![Gated Content on Forbes][img4]
+
+Personally, when I encounter sites like these I close it and never go back. You can determine for yourself if the content is worth seeing their ads for.
+
+There is a whole discussion to be had here, but for another time. <u>The short version</u> is that these publishers are funded by advertisements, and by using an adblocker, you are denying them the opportunity to show advertisements to you. On the other hand, visitors who use adblockers aren't going to click on ads, and therefore aren't interested in seeing them, much less being tracked by them. And so much more...
 
 ## Browser Choice
 
