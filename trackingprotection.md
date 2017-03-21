@@ -9,11 +9,18 @@ If a strangers rings you up, and asks for your personal information over the pho
 
 If you do, then you might be interested to increase your privacy online. 
 
-On the internet, most commercial websites have dozens of third party scripts running, that collect your browsing data, and use this mainly to target advertisements at you. However, most of these parties are unknown, what they do with this data is unknown, and where the data goes, who else gets to use it is all unknown.
+On the internet, most commercial websites have dozens of third party scripts running, that collect your browsing data, and use this mainly to target advertisements at you. In most continents, this is common practice and there are no laws against it.
 
-Blocking online advertisements is actually a luxury side effect of getting tracking protection. Sometimes, these cookies also contain malware, that can either cause harm to your operating system, or collect financial information from you. 
+In fact countries like the US are constantly trying to make tracking you [law approved](https://www.aclu.org/blog/free-future/congress-dont-let-internet-providers-sell-our-data-highest-bidder). And [here](http://www.inc.com/adam-levin/how-donald-trump-is-about-to-gut-privacy-protection-for-every-internet-user.html)...
 
-This is bad for website publisher, it's bad for advertisers, and it's bad for internet users.
+[img6]: /img/ohnein.gif "Oh Nein!"
+![He did][img6]
+
+Most of these third parties are unknown, what they do with this data is unknown, and where the data goes, who else gets to use it is all unknown.
+
+Blocking online advertisements is actually a luxury side effect of getting tracking protection. Sometimes, these cookies also contain malware, that can either cause harm to your operating system, or steal financial information from you.
+
+This is bad for website publishers, it's bad for advertisers, and it's bad for internet users.
 
 ## When you protect yourself from third-party tracking, you're helping to:
 
