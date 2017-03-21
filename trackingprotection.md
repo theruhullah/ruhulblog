@@ -11,7 +11,9 @@ If you do, then you might be interested to increase your privacy online.
 
 On the internet, most commercial websites have dozens of third party scripts running, that collect your browsing data, and use this mainly to target advertisements at you. In most continents, this is common practice and there are no laws against it.
 
-In fact countries like the US are constantly trying to make tracking you [law approved](https://www.aclu.org/blog/free-future/congress-dont-let-internet-providers-sell-our-data-highest-bidder). And [here](http://www.inc.com/adam-levin/how-donald-trump-is-about-to-gut-privacy-protection-for-every-internet-user.html)...
+In fact countries like the US are constantly trying to make tracking you [law approved](https://www.aclu.org/blog/free-future/congress-dont-let-internet-providers-sell-our-data-highest-bidder). 
+
+And [here](http://www.inc.com/adam-levin/how-donald-trump-is-about-to-gut-privacy-protection-for-every-internet-user.html)...
 
 [img6]: /img/ohnein.gif "Oh Nein!"
 ![He did][img6]
