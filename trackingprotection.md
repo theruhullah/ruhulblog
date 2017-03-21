@@ -27,7 +27,7 @@ In a nutshell, you will see less of the annoying ads that follow you around the
 
 [<u>Privacy Badger</u>](https://www.eff.org/privacybadger), a project of the [<u>Electronic Frontier Foundation</u>](https://www.eff.org/), is a tracking protection extension for Firefox and Google Chrome. Privacy Badger only blocks trackers that it detects following you across multiple sites. **This extension is recommended for you.**
 
-[<u>GET PRIVACY BADGER HERE</u>](https://www.eff.org/privacybadger)
+**[<u>GET PRIVACY BADGER HERE</u>](https://www.eff.org/privacybadger)**
 
 Once you install the extension, you will need to ensure it's three protection settings are enabled. Do this by clicking on the badger icon (usually top right of your browser), and clicking the gear icon to go to the settings page.
 
@@ -59,7 +59,7 @@ Adblock Plus is not a good company. Companies like these hold advertisers and pu
 
 However, they provide the best tool for us to never have to see ads on Youtube, or those particularly irritating ones that follow us around. Thankfully they are still quite a consumer friendly and do offer robust blocking options, compared to alternative software, and thus far have never held users ransom.
 
-[GET ADBLOCK PLUS HERE](https://adblockplus.org/)
+[**<u>GET ADBLOCK PLUS HERE</u>**](https://adblockplus.org/)
 
 Get the free version, it is sufficient. Don't upgrade to PRO. 
 
@@ -109,9 +109,9 @@ If you've come this far, and still have a burning desire to protect yourself eve
 
 For general internet use, the steps I've outlined are sufficient to enjoy using the internet without having to worry about being spied on. 
 
-For your information, I DO track visitor behavior on this website (via Google Analytics only- you can check with your newly installed protections), because this is a private domain, and I want to know what people do on it, and how. 
+For your information, I DO track visitor behavior on this website (via Google Analytics only- you can check with your newly installed protections), because this is a private domain, and I want to know what people do on it, and how.
 
-I fund this domain myself, and don't run advertising on it. The cookie I run expires after you leave, and therefore does not track you past any of the pages on this domain. It has no way of determining who you are, and what else you do on the internet.
+I fund this domain myself, and don't run advertising on it. The cookie I run expires after you leave, and therefore does not track you past any of the pages on this domain. It has no way of determining who you are, and what else you do on the internet. How it works, and what it does will certainly change over time, but the basic principle of not using tracking scripts from unknown/unverified sources won't.
 
 I think that's fair. 
 
