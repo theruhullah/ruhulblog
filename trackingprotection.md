@@ -36,7 +36,7 @@ In a nutshell, you will see less of the annoying ads that follow you around the
 
 **[<u>GET PRIVACY BADGER HERE</u>](https://www.eff.org/privacybadger)**
 
-Once you install the extension, you will need to ensure it's three protection settings are enabled. Do this by clicking on the badger icon (usually top right of your browser), and clicking the gear icon to go to the settings page.
+Once you install the extension, you will need to ensure its three protection settings are enabled. Do this by clicking on the badger icon (usually top right of your browser), and clicking the gear icon to go to the settings page.
 
 [img1]: /img/badger_settings.png "Privacy Badger Settings"
 ![Privacy Badger Settings][img1]
@@ -56,7 +56,7 @@ You won't have to tamper with the sliders, since badger is updates in real-time 
 
 In this example we see that badger has detected 14 *potential* trackers on this page, and has automatically blocked several of them. 
 
-In reality, the Forbes website has once of the *worst* load times of publishers, because it has tracking cookies from over 300 (last I checked) third party scripts. 
+In reality, Forbes website has once of the *worst* load times of publishers, because it has tracking cookies from over 300 (last I checked) third party scripts. 
 
 I only receive a fraction of that because I also run:
 
