@@ -102,7 +102,7 @@ There is a whole discussion to be had here, but for another time. <u>The short v
 
 This is completely up to you, but the safest, least privacy infringing browser in the market is currently Firefox. It has tracking protection built in. That plus the above two tools will ensure an even greater degree of privacy. 
 
-Safari has in recent years also begin to adopt privacy policies, so if you use Apple products, Safari is a good choice. Apple products also do not support flash based plugins by default, so that is a huge plus itself, since many forms of malware are embedded onto flash scripts (ie Youtube).
+Safari has in recent years also begun to adopt privacy policies, so if you use Apple products, Safari is a good choice. Apple products also do not support flash based plugins by default, so that is a huge plus itself, since many forms of malware are embedded onto flash scripts (ie Youtube).
 
 ## Search Engines
 
