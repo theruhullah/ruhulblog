@@ -58,7 +58,7 @@ You won't have to tamper with the sliders, since badger updates in real-time and
 
 In this example we see that badger has detected 14 *potential* trackers on this page, and has automatically blocked several of them. 
 
-In reality, Forbes website has once of the *worst* load times of publishers, because it has tracking cookies from over 300 (last I checked) third party scripts. 
+In reality, Forbes website has the *worst* load times of any publisher I've come across, because it has tracking cookies from over 300 (last I checked) third party scripts. 
 
 I only receive a fraction of that because I also run:
 
