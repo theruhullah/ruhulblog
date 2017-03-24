@@ -54,7 +54,7 @@ You will see something similar:
 
 The sliders indicate the level of protection you receive. Some cookies are harmless, and are indeed meant to improve your browsing experience, simply by saving in your browser cache images and html templates of sites you have visited. This enables those sites to load faster on subsequent visits.
 
-You won't have to tamper with the sliders, since badger is updates in real-time and has a very good judgement of what is harmful, and which cookies are meant to track your activities across different websites.
+You won't have to tamper with the sliders, since badger updates in real-time and has a very good judgement of what is harmful, and which cookies are meant to track your activities across different websites.
 
 In this example we see that badger has detected 14 *potential* trackers on this page, and has automatically blocked several of them. 
 
