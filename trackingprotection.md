@@ -110,7 +110,7 @@ Chrome is the most convenient browser. It links all your accounts, across all yo
 
 Which leaves little room for protecting your data, or preventing your data from being linked to your personal profiles. 
 
-Incognito modes are decent short term option. Better is a little known wonder called [DuckDuckGo](https://duckduckgo.com/). Check it out, it might become your go-to search engine. 
+Incognito modes are a decent short term option. Better is a little known wonder called [DuckDuckGo](https://duckduckgo.com/). Check it out, it might become your go-to search engine. 
 
 ------
 
