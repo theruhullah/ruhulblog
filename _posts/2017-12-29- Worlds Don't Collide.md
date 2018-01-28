@@ -6,7 +6,7 @@ header: Worlds That Don't Collide
 These parallel worlds refuse us to cross paths,  
 Separated even by a mere hairs breath,  
 So small yet so wide,  
-Not even our most modest of wishes reach across so great a divide.    
+Not even our most modest wishes reach across so great a divide.    
 
 Always right before my eyes in the distance,  
 Yet never able reach for that reassuring touch,  
