@@ -4,9 +4,9 @@ description:
 header: Worlds That Don't Collide
 ---
 These parallel worlds refuse us to cross paths,  
-Even though separated by a mere hairs breath,  
+Separated even by a mere hairs breath,  
 So small yet so wide,  
-Not even our most modest of wishes reach across a divide so great.    
+Not even our most modest of wishes reach across so great a divide.    
 
 Always right before my eyes in the distance,  
 Yet never can we reach out for that reassuring touch,  
