@@ -9,7 +9,7 @@ So small yet so wide,
 Not even our most modest of wishes reach across so great a divide.    
 
 Always right before my eyes in the distance,  
-Yet never can we reach out for that reassuring touch,  
+Yet never able reach for that reassuring touch,  
 Unable to see what your eyes do reflect,  
 And in the black of my eyes is an empty shell.
 
