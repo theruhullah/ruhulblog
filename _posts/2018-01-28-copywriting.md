@@ -1,8 +1,8 @@
 ---
-title: Love Love Love
+title: When Love Is No Longer Enough
 description: 
-header: Love Love Love
+header: When Love Is No Longer Enough
 ---
 You know you're copywriting when you try to come up with a *more romantic word* for love...
 
-<iframe src="https://embed.spotify.com/?uri=spotify:track:1IBk5PttmnPcGnysEwtiXi" width="300" height="80" frameborder="0" allowtransparency="true"></iframe>
+<iframe src="https://open.spotify.com/embed/track/1qjp4x92RNVf0Di3QKey5Q" width="300" height="80" frameborder="0" allowtransparency="true"></iframe>
