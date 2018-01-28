@@ -1,5 +1,5 @@
 ---
-layout: hiddenpage
+layout: page
 title: Enable Tracking Protection
 description: Protect your personal browsing data and online activity from spies and tracking scripts.
 ---
